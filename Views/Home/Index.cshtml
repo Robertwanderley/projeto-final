@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Bem vindos!</h1>
+    <p class="lead"> PCDjobs é um projeto que tem como objetivo a inclusão de PCDs no mercado de trabalhos, os auxiliando a encontrar vagas de empregos em suas áreas de domínio.</p>
+    <br />
+    
+</div>
+
+<div class="container" style="background-image: url(./lib/imagens/homem-invalido-em-cadeira-de-rodas-e-homem-com-protese-na-perna-trabalho-de-escritorio-encontra-funcionaria-ilustracao-de-desenho-animado-de-inclusao_24640-70985.jpg)" class="container">
+    <div class="container">
+
+        <p class="font-weight-bold">Encontre sua Vaga Aqui!</p>
+        <form asp-controller="Home" asp-action="Privacy" method="get">
+            <p>
+                <input type="text" name="SearchString" placeholder="Pesquisar Vagas" />
+                <input type="submit" value="Pesquisar" />
+            </p>
+        </form>
+
+    </div>
+
+    <div class="col-md-12" style="text-align:right;">
+        <a href="https://localhost:44396/Usuarios/Create" class="btn btn-primary" role="button">Cadastre-se Grátis</a>
+
+    </div>
+</div>
