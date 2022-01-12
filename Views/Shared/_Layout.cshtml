@@ -9,31 +9,30 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-warning border-bottom box-shadow mb-3">
+        <section>
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PCDjobs</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav w-100 flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Vagas</a>
-                        </li>
-                        <li class="nav-item ml-lg-auto">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Create">Cadastre-se</a>
-                        </li>
-                        <li class="nav-item ml-0">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Index">Entrar</a>
-                        </li>
-                    </ul>
+                <div class="row">
+                    <div class="col-12">
+                        <!--Menu-->
+                        <ul class="nav justify-content-end w-100">
+                            <li class="nav-item ml-auto">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Página inicial</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Oportunidades</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Create">Cadastre-se</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+                            </li>
+                        </ul>
+                        <!--FIm do Menu-->
+                    </div>
                 </div>
             </div>
-        </nav>
+        </section>
     </header>
     <div class="container">
         <main role="main" class="pb-3">

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Remakker\\Source\\Repos\\CadastroElogin1\\CadastroElogin.csproj": {}
+    "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\CadastroElogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Remakker\\Source\\Repos\\CadastroElogin1\\CadastroElogin.csproj": {
+    "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\CadastroElogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Remakker\\Source\\Repos\\CadastroElogin1\\CadastroElogin.csproj",
+        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\CadastroElogin.csproj",
         "projectName": "CadastroElogin",
-        "projectPath": "C:\\Users\\Remakker\\Source\\Repos\\CadastroElogin1\\CadastroElogin.csproj",
+        "projectPath": "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\CadastroElogin.csproj",
         "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Remakker\\Source\\Repos\\CadastroElogin1\\obj\\",
+        "outputPath": "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Remakker\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.13, )"

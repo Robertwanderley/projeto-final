@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EcmIsv631U1mc/9FbN/djX2PWPkbSftIoPy6cyOvFwrpdoE17HwFPYdSppIO/VEzVzhRZ+ZYNJ0FQfgOOlx0Vg==",
+  "dgSpecHash": "KOT7ztEQAbM46sq7MqHrc9Hhy/2xEJoo2S6ZG+wISsPwBeqNmLaGhZ++NM6bojIfH4QkdGVUTIbfuyx/uGk2Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Remakker\\Source\\Repos\\CadastroElogin1\\CadastroElogin.csproj",
+  "projectFilePath": "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\CadastroElogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Remakker\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -10,7 +10,7 @@
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\microsoft.codeanalysis.common.3.8.0.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\3.8.0\\microsoft.codeanalysis.csharp.workspaces.3.8.0.nupkg.sha512",
