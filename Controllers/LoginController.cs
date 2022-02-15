@@ -17,7 +17,7 @@ namespace CadastroElogin.Controllers
         {
             using (Context db = new Context())
             {
-                return View(db.clientes.ToList());
+                return View();
             }
         }
 
@@ -47,7 +47,6 @@ namespace CadastroElogin.Controllers
             catch (Exception e)
             {
                 ModelState.AddModelError("Credenciais", "Email ou senha incorretos");
-                
             }
             return View("Index");
         }

@@ -7302,19 +7302,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Remakker\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcelo\\.nuget\\packages\\": {},
+    "E:\\Ferramentas de trabalho\\Microsoft Visual Studio 2022 SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\CadastroElogin.csproj",
+      "projectUniqueName": "C:\\Users\\Marcelo\\Source\\Repos\\projeto-final\\CadastroElogin.csproj",
       "projectName": "CadastroElogin",
-      "projectPath": "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\CadastroElogin.csproj",
-      "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Remakker\\Desktop\\Nova pasta\\CadastroElogin1\\obj\\",
+      "projectPath": "C:\\Users\\Marcelo\\Source\\Repos\\projeto-final\\CadastroElogin.csproj",
+      "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marcelo\\Source\\Repos\\projeto-final\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Ferramentas de trabalho\\Microsoft Visual Studio 2022 SDK\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Remakker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7389,7 +7394,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
