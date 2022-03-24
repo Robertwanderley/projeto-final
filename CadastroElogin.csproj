@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Data\imagens\**" />
+    <Content Remove="Data\imagens\**" />
+    <EmbeddedResource Remove="Data\imagens\**" />
+    <None Remove="Data\imagens\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="wwwroot\lib\imagens\auxiliar-producao-pcd.jpg" />
   </ItemGroup>
 
