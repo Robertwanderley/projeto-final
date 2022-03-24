@@ -11,7 +11,7 @@ namespace CadastroElogin.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=tcp:projeto-saquad52.database.windows.net,1433;Initial Catalog=Projetofinalsquad52;Persist Security Info=False;User ID=dev-robert;Password=Squad52tcc;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+            optionsBuilder.UseSqlServer("Server=tcp:pcdjobs.database.windows.net,1433;Initial Catalog=PCDjobs;Persist Security Info=False;User ID=knauer;Password=Squad52!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
 
         }
 
