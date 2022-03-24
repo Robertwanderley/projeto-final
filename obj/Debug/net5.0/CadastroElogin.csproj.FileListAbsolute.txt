@@ -789,3 +789,7 @@ C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\CadastroElogin.dll
 C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\ref\CadastroElogin.dll
 C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\CadastroElogin.pdb
 C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\CadastroElogin.genruntimeconfig.cache
+C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\Razor\Views\Sobre\Index.cshtml.g.cs
+C:\Users\Marcelo\Source\Repos\projeto-final\obj\Debug\net5.0\Razor\Views\Vagas\Index.cshtml.g.cs

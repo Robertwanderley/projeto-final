@@ -9,6 +9,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Views\Contato\Index.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Login\Index.cshtml" />
+    <None Include="Views\Login\Logado.cshtml" />
+    <None Include="Views\Perfil\Index.cshtml" />
+    <None Include="Views\Sobre\Index.cshtml" />
+    <None Include="Views\Vagas\Index.cshtml" />
+    <None Include="wwwroot\imagens\etapa1.svg" />
+    <None Include="wwwroot\imagens\etapa2.svg" />
+    <None Include="wwwroot\imagens\etapa3.svg" />
     <None Include="wwwroot\lib\imagens\auxiliar-producao-pcd.jpg" />
   </ItemGroup>
 
